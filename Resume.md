@@ -1,9 +1,9 @@
 Graham Avidano's resume
 
-Work experience
+Work experience-
 I worked with code before and have my own GitHub page
-Education
+Education-
 Education through highschool
 
-Extra
+Extra-
 Baseball, and Hockey
