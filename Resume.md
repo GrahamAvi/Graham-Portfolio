@@ -5,4 +5,5 @@ I worked with code before and have my own GitHub page
 Education
 Education through highschool
 
-extracurriculars
+Extra
+Baseball, and Hockey
