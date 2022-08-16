@@ -4,6 +4,10 @@
 -I worked with code before and have my own GitHub page
 ## Education-
 -Education through highschool
+## Education History
+- Kedron Elementrary
+- Booth Middle School
+- Mcintosh Highschool
 ## Extra
 -Baseball
 -Hockey
