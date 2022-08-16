@@ -2,13 +2,13 @@
 
 ## Work experience
 
--I worked with code before and have my own GitHub page
+- I worked with code before and have my own GitHub page
 
 ## Education
 
--Education through highschool
+- Education through highschool
 
--I am an Expert about VR stuff
+- I am an Expert about VR stuff
 
 ## Employment history
 
@@ -24,12 +24,12 @@
 
 ## Extra
 
--Baseball
+- Baseball
 
--Hockey
+- Hockey
 
--Rowing
+- Rowing
 
 ## Hobbies
 
--I make and play VR Games and code drones with python
+- I make and play VR Games and code drones with python
