@@ -33,3 +33,7 @@
 ## Hobbies
 
 - I make and play VR Games and code drones with python
+
+## Typing Speed
+
+- 43
