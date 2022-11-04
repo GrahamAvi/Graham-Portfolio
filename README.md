@@ -6,3 +6,5 @@ Hi my name is Graham Avidano this is my portfolio for IST
 ## Contents
 
 - [Resume](Resume.md)
+
+We are using Github to do our stuff.
